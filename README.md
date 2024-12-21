@@ -1,5 +1,3 @@
-### **README.md**  
-
 # **OESHI Alexa: Voice-Activated Virtual Assistant**  
 
 OESHI Alexa is a Python-based virtual assistant capable of understanding and responding to voice commands. It provides interactive, conversational responses and can perform various tasks, such as playing music, fetching information, and more.  
