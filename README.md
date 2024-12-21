@@ -57,6 +57,6 @@ OESHI Alexa is a Python-based virtual assistant capable of understanding and res
 ---
 
 ## **Contributors**  
-- Vishnuvardhan Reddy  
+- Contributions are welcome! Feel free to fork the repository and submit a pull request for any improvements or bug fixes. 
 
 --- 
